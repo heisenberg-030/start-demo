@@ -1,4 +1,4 @@
 # start-demo
 This is my  first Git repository
 <br>
-Author -Sarthak Jain
+Author -Sarthak Jain (IIT KGP)
